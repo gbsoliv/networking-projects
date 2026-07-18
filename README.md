@@ -3,7 +3,7 @@
 Vertex Solutions is a fictitious mid-sized technology company that needs a network solution to be implemented and support its daily operations.
 
 ## Business Requirements
-- Support approximately 200 corporate users segmentated by 5 departaments: Executive, Sales, MArketing, Operations and Accounting. 
+- Support approximately 100 corporate users segmentated by 5 departaments: Executive, Sales, MArketing, Operations and Accounting. 
 - Separate voice, data, and guest traffic
 - Support future expansion
 - Ensure high availability
