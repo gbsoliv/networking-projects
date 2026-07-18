@@ -1,10 +1,9 @@
 # Vertex Solutions Enterprise Network
 
-Vertex Solutions is a mid-sized technology company specializing in cloud migration, software development, cybersecurity consulting, and managed IT services. The company requires a scalable, secure, and highly available enterprise network to support daily operations. 
+Vertex Solutions is a fictitious mid-sized technology company that needs a network solution to be implemented and support its daily operations.
 
 ## Business Requirements
-- Support approximately 200 corporate users
-- Provide secure network segmentation
+- Support approximately 200 corporate users segmentated by 5 departaments: Executive, Sales, MArketing, Operations and Accounting. 
 - Separate voice, data, and guest traffic
 - Support future expansion
 - Ensure high availability
@@ -27,7 +26,7 @@ Vertex Solutions is a mid-sized technology company specializing in cloud migrati
             /      \          /      \
       Access SW1  SW2    SW3      SW4
            │         │      │         │
-        End Users  Phones  APs   Printers
+    End Users  End Users  End Users   AP, Printers and Servers. 
 
 
         
