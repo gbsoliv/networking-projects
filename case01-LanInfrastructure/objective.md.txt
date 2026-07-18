@@ -1,0 +1,12 @@
+Build the initial enterprise campus infrastructure.
+
+Tasks: 
+- Devices Hardening
+- Hostname
+- Basic Switch Configuration
+- Management VLAN
+- Management IP
+- Cables 
+- Banner
+
+

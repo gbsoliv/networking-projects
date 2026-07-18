@@ -1,0 +1,9 @@
+Provide loop prevention and network redundancy.
+
+Topics
+
+Rapid STP
+Root Bridge
+Secondary Root
+PortFast
+BPDU Guard
