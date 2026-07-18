@@ -9,4 +9,68 @@ Tasks:
 - Cables 
 - Banner
 
+-----------------------------------------------------
+
+CABLES:  
+
+Switch > Endpoints = Straight Thought cables 
+Switch > Switch = Crossover cables 
+
+ACC1: 
+Executive PCS 
+Sales PCS 
+IP-Phone1, IP-Phone1 (PoE) 
+
+ACC2: 
+Marketing PCS 
+HR Pcs 
+
+ACC3: 
+Operations PCS  
+Accounting PCS  
+IP-Phone3 (Poe) 
+
+ACC4:
+Printers 
+AP 
+Servers  
+
+--------------------------------------------------
+
+HOSTNAMES:  
+
+ACC1, ACC2,ACC3,ACC3,ACC4 
+DIST-01, DIST-02
+CORE-01,CORE02
+Edge Router 
+
+--------------------------------------------------
+
+BANNER: 
+
+**************************************************************************
+*                    Vertex Solutions Enterprise Network                 *
+**************************************************************************
+* Device Name : xxx                                                      *
+* Device Role : xxx                                                      *
+* Site        : São Paulo HQ                                             *
+* Environment : Production                                               *
+**************************************************************************
+* WARNING: This system is restricted to authorized personnel only.       *
+* Unauthorized access is prohibited. All activities are monitored,       *
+* recorded, and subject to company security policies.                    *
+**************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
 
