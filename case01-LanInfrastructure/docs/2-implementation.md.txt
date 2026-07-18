@@ -5,7 +5,7 @@
 #int vlan 99
 #ip address <ip> 255.255.255.0 
 
-2. Configured an unique management IP per switch:
+2. Configured a unique management IP per switch:
 
 MASK 255.255.255.0 
 
@@ -20,9 +20,6 @@ ACC-04	10.10.99.34
 
 3. Allow VLAN 99 on every trunk (FUTURE)
 
-4. Configure the default gateway on Layer 2 switches:
-- DIST-01 and DIST-02 currently operate as Layer 2 switches.
-- ACC-01 through ACC-04 operate as Layer 2 switches.
-- The future management gateway will be 10.10.99.1 on CORE-01.
+4. Configure the management gateway on Distribution and Access Layers 
 
 #ip default-gateway 10.10.99.1
